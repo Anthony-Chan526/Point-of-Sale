@@ -1,0 +1,31 @@
+#category, brand, product, price, cost, stock, barcode
+Test
+Testing Co Ltd
+Testing Product
+15.0
+1122
+Juice
+Mr Juicy
+Orange Juice Drink 360mL (Bottle)
+9.9
+9665
+Juice
+F&N Fruit Tree
+Apple & Aloe Vera Juice Drink 500mL
+16.0
+6479
+Juice
+F&N Fruit Tree
+Apple & Aloe Vera Juice Drink 1L
+22.9
+5155
+Juice
+Homegrown Juice Company
+Cold Pressed NZ Apple Juice 1L
+35.5
+6470
+T2
+T2 Brand
+T2 Product
+20.0
+2983
